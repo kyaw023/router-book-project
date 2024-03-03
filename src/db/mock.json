@@ -1,0 +1,182 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "slug": "the-great-gatsby",
+      "author": "F. Scott Fitzgerald",
+      "rating": 4.5,
+      "price": 100,
+      "description": "A classic novel by F. Scott Fitzgerald.",
+      "image": "https://s3.amazonaws.com/adg-bucket/the-great-gatsby-by-f-scott-fitzgerald/3419-medium.jpg",
+      "sub_images": [
+        "https://m.media-amazon.com/images/M/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_FMjpg_UX1000_.jpg",
+        "https://m.media-amazon.com/images/I/61dRoDRubtL._AC_UF1000,1000_QL80_.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "slug": "to-kill-a-mockingbird",
+      "author": "Harper Lee",
+      "price": "free",
+      "rating": 3.8,
+      "description": "Harper Lee's influential novel on racial injustice.",
+      "image": "https://cdn2.penguin.com.au/covers/original/9781785151552.jpg",
+      "sub_images": [
+        "https://m.media-amazon.com/images/I/71FxgtFKcQL._AC_UF1000,1000_QL80_.jpg",
+        "https://m.media-amazon.com/images/I/81gepf1eMqL._AC_UF1000,1000_QL80_.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "slug": "1984",
+      "rating": 4.2,
+      "price": 120,
+      "author": "George Orwell",
+      "description": "George Orwell's dystopian classic.",
+      "image": "https://m.media-amazon.com/images/I/612ADI+BVlL._AC_UF1000,1000_QL80_.jpg",
+      "sub_images": [
+        "https://cdn.kobo.com/book-images/c9472126-7f96-402d-ba57-5ba4c0f4b238/353/569/90/False/nineteen-eighty-four-1984-george.jpg",
+        "https://kashmirreader.com/wp-content/uploads/2022/03/The-horrific-brainwashing-in-Orwells-1984.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Pride and Prejudice",
+      "slug": "pride-and-prejudice",
+      "rating": 4.7,
+      "price": 90,
+      "author": "Jane Austen",
+      "description": "Jane Austen's timeless romantic novel.",
+      "image": "https://cdn2.penguin.com.au/covers/original/9780141949055.jpg",
+      "sub_images": [
+        "https://images.booksense.com/images/032/714/9781912714032.jpg",
+        "https://prodimage.images-bn.com/pimages/9781435173057_p0_v1_s1200x630.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "The Hobbit",
+      "slug": "the-hobbit",
+      "rating": 4,
+      "price": "free",
+      "author": "J.R.R. Tolkien",
+      "description": "J.R.R. Tolkien's fantasy adventure.",
+      "image": "https://m.media-amazon.com/images/I/A11+Gq4ebyL._AC_UF1000,1000_QL80_.jpg",
+      "sub_images": [
+        "https://m.media-amazon.com/images/I/71jD4jMityL._AC_UF1000,1000_QL80_.jpg",
+        "https://i.ebayimg.com/images/g/HW4AAOSwYDZgjoaO/s-l600.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "The Catcher in the Rye",
+      "slug": "the-catcher-in-the-rye",
+      "rating": 3.5,
+      "price": 40,
+      "author": "J.D. Salinger",
+      "description": "J.D. Salinger's coming-of-age novel.",
+      "image": "https://thethinksync.com/wp-content/uploads/2021/09/thecatcherintherye.jpg",
+      "sub_images": [
+        "https://www.pluggedin.com/wp-content/uploads/2020/01/catcher-in-the-rye-cover-image-682x1024.jpeg",
+        "https://www.savethecat.com/wp-content/uploads/2019/05/243a0ba33adbee20d3ed689fbf712ec8-jd-salinger-holden-caulfield.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "The Lord of the Rings",
+      "slug": "the-lord-of-the-rings",
+      "rating": 4.8,
+      "price": 140,
+      "author": "J.R.R. Tolkien",
+      "description": "J.R.R. Tolkien's epic fantasy trilogy.",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566425108l/33.jpg",
+      "sub_images": [
+        "https://m.media-amazon.com/images/I/71VjmMcE-rL._AC_UF894,1000_QL80_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654215925i/61215351.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "slug": "harry-potter-and-the-sorcerers-stone",
+      "rating": 4.9,
+      "price": 400,
+      "author": "J.K. Rowling",
+      "description": "J.K. Rowling's magical series begins.",
+      "image": "https://m.media-amazon.com/images/I/71XqqKTZz7L._AC_UF1000,1000_QL80_.jpg",
+      "sub_images": [
+        "https://prodimage.images-bn.com/pimages/9781781100486_p0_v6_s1200x630.jpg",
+        "https://m.media-amazon.com/images/I/71RVt35ZAbL._AC_UF1000,1000_QL80_.jpg"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "The Da Vinci Code",
+      "slug": "the-da-vinci-code",
+      "rating": 3,
+      "price": "free",
+      "author": "Dan Brown",
+      "description": "Dan Brown's gripping mystery thriller.",
+      "image": "https://m.media-amazon.com/images/I/71jDX01PzaL._AC_UF894,1000_QL80_.jpg",
+      "sub_images": [
+        "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "The Hunger Games",
+      "slug": "the-hunger-games",
+      "rating": 3.6,
+      "price": 120,
+      "author": "Suzanne Collins",
+      "description": "Suzanne Collins' dystopian adventure.",
+      "image": "https://m.media-amazon.com/images/I/71WSzS6zvCL._AC_UF1000,1000_QL80_.jpg",
+      "sub_images": [
+        "https://m.media-amazon.com/images/I/61I24wOsn8L._AC_UF1000,1000_QL80_.jpg"
+      ]
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "kyawkhainglynn",
+      "email": "kyawkhainglynn023@gmail.com",
+      "password": "kyaw201218",
+      "profile_img": "https://images.ctfassets.net/3mv54pzvptwz/55YLwKPDnRXkqMBITRpWbC/0c2aefc04afa455c20e9ca0d209698e0/53174188191_42d4c831ae_o.jpg"
+    },
+    {
+      "id": "2",
+      "name": "kyawgyi",
+      "email": "kyawgyi100@gmail.com",
+      "password": "kyaw201218",
+      "profile_img": "https://media.istockphoto.com/id/1090878336/photo/closeup-headshot-of-businessman-standing-against-gray-background-smiling-with-satisfaction.jpg?s=1024x1024&w=is&k=20&c=kP5nV5y375DnNklozejFN4QQHFF1NyS4rHXrMk9CWMM="
+    },
+    {
+      "id": "1709139061330",
+      "email": "hninnu20@gmail.com",
+      "password": "kyaw",
+      "name": "Hnin"
+    },
+    {
+      "id": 1709190813229,
+      "email": "www.kyawkhainglynn023@gmail.com",
+      "password": "kkl",
+      "name": "KyawGyi"
+    },
+    {
+      "id": 1709190813229,
+      "email": "www.kyawkhainglynn023@gmail.com",
+      "password": "kkl",
+      "name": "KyawGyi"
+    },
+    {
+      "id": 1709190889128,
+      "email": "kyawkhainglynn023@gmail.com",
+      "password": "kkl",
+      "name": "Kyaw"
+    }
+  ]
+}
